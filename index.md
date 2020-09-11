@@ -4,7 +4,7 @@ Welcome to our team
 
 ## Who are we?
  The Secret City Wildbots are a ninth year FIRST Robotics Team from Oak Ridge High School in Oak Ridge, Tennessee. 
-## FRC(https://www.google.com/url?q=https%3A%2F%2Fwww.firstinspires.org%2F&sa=D)
+## [Frc](https://www.firstinspires.org/)
 The mission of FIRST® is to inspire young people to be science and technology leaders and innovators, by engaging them in exciting mentor-based programs that build science, engineering, and technology skills, that inspire innovation, and that foster well-rounded life capabilities including self-confidence, communication, and leadership. 
 ### Markdown
 
