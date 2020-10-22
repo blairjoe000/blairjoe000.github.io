@@ -10,8 +10,8 @@ The mission of FIRST® is to inspire young people to be science and technology l
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-
-# Engineering               Outreach               Fundraising
+hi 
+# [Engineering](https://www.4265frc.com/about.html)      ye         Outreach               Fundraising
 
 - History
 - Callendar
@@ -20,9 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 2. 4265.business@gmail.com
 
 **Bold** and _Italic_ and `Code` text
-├── about.md    # => http://4265frc.com/about.html
-├── index.html    # => http://4265frc.com/
-└── contact.html  # => http://4265frc.com/contact.html
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
