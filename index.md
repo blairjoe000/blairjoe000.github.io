@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## [About](https://www.frc4265.com/about)
 # Engineering
-#Outlook
-#Fundraising
+# Outlook
+# Fundraising
 
 History
 Callendar
