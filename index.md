@@ -1,3 +1,4 @@
+theme: jekyll-theme-slate
 ## Secret City Wildbots Team 4265
 Welcome to our team
 ![cool image](/assets/Full Robot v12.jpg)
