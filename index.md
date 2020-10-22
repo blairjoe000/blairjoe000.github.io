@@ -11,9 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 
-# Engineering
-## Outreach
-### Fundraising
+# Engineering               Outreach               Fundraising
 
 - History
 - Callendar
@@ -23,7 +21,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
