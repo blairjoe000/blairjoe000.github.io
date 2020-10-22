@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## [hmm](https://www.firstinspires.org/)
 # Engineering
 
-##History
-##Callendar
+History
+Callendar
 
 1. Created by Joe Blair Website Lead
 2. 4265.business@gmail.com
