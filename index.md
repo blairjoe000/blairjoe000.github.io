@@ -9,8 +9,10 @@ The mission of FIRST® is to inspire young people to be science and technology l
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-## [About](https://www.frc4265.com/about.md)
+## [About](https://www.frc4265.com/about)
 # Engineering
+#Outlook
+#Fundraising
 
 History
 Callendar
