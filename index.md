@@ -10,8 +10,7 @@ The mission of FIRST® is to inspire young people to be science and technology l
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-hi 
-# [Engineering](https://www.4265frc.com/about.html)      ye         Outreach               Fundraising
+# [Engineering](https://www.4265frc.com/about.html)            Outreach               Fundraising
 
 - History
 - Callendar
