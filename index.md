@@ -1,7 +1,6 @@
-theme: jekyll-theme-slate
 ## Secret City Wildbots Team 4265
 Welcome to our team
-![cool image](/assets/Full Robot v12.jpg)
+![cool image]
 ## Who are we?
  The Secret City Wildbots are a ninth year FIRST Robotics Team from Oak Ridge High School in Oak Ridge, Tennessee. 
 ## [FRC](https://www.firstinspires.org/)
@@ -10,8 +9,7 @@ The mission of FIRST® is to inspire young people to be science and technology l
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+
 
 # Engineering
 ## Outreach
